@@ -1,0 +1,9 @@
+.Side_bar{
+    position: fixed;
+    height: 100vh;
+    width: 15%;
+    /* z-index: 100; */
+}
+.right_side_bar{
+    margin-left: 15rem;
+}
